@@ -11,6 +11,16 @@
 
     border-width: 14px;
 }
+.zoom-banner {
+    background-color: #fff3cd;
+    color: #856404;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    border-bottom: 1px solid #ffeeba;
+    width: 100%;
+}
 
 .keyhighlight {
     font-weight: bold;
